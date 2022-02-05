@@ -16,14 +16,179 @@ Lathe CAD ([ZIP - 19.0MB]({{< baseurl >}}/resources/lathe09)) (This ZIP file con
 Responsibility for Parts
 ------------------------
 
-| PART NAME | OUR RESPONSIBILITies | YOUR RESPONSIBILITies |
-| --- | --- | --- |
-| Spindle |  {{< br >}}{{< br >}} Housing blank  {{< br >}}Shaft blank {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Housing  {{< br >}}Preload mechanisms  {{< br >}}End cap  {{< br >}}Shaft  {{< br >}}Bearings {{< br >}}{{< br >}}  |
-| Structure |  {{< br >}}{{< br >}} Headstock blank  {{< br >}}Tail stock blank  {{< br >}}Structure tube blank {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Rails  {{< br >}}Finished tube  {{< br >}}Finished tail stock  {{< br >}}Finished head stock {{< br >}}{{< br >}}  |
-| Lead screw drive |  {{< br >}}{{< br >}} Bearings  {{< br >}}Preload end cap  {{< br >}}Lead screw  {{< br >}}Preload washers  {{< br >}}Preload tube  {{< br >}}Lead screw bearing seat  {{< br >}}Bearing preload nut {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Drive nut  {{< br >}}Drive preload nut {{< br >}}{{< br >}}  |
-| Carriage |  {{< br >}}{{< br >}} Polymer bed blank\*  {{< br >}}Handles  {{< br >}}End skirt blanks\* {{< br >}}{{< br >}} \*May cast 3 pieces as one, stay tuned… {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Finished polymer bed\*  {{< br >}}Drive flexure coupling  {{< br >}}Bushings  {{< br >}}Finished end skirts\*  {{< br >}}Bushing flexure coupling {{< br >}}{{< br >}}  |
-| Cross feed |  {{< br >}}{{< br >}} Tool holder  {{< br >}}Lead screw {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Flexure bearing  {{< br >}}Front flexure mount  {{< br >}}Proper dial mount surfaces/flats on screw  {{< br >}}Rear flexure mount  {{< br >}}Thrust bearing {{< br >}}{{< br >}}  |
-| Miscellaneous |  {{< br >}}{{< br >}} Chuck  {{< br >}}Metrology fixtures (3-ball & runout)  {{< br >}}HSS cutting tool  {{< br >}}Fasteners {{< br >}}{{< br >}} > ¼ - 20 bolts – 0.50 in long{{< br >}}> {{< br >}}> ¼ - 20 bolts – 0.75 in long{{< br >}}> {{< br >}}> ¼ - 20 bolts – 1.00 in long {{< br >}}{{< br >}}  |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PART NAME
+{{< thclose >}}
+{{< thopen >}}
+OUR RESPONSIBILITies
+{{< thclose >}}
+{{< thopen >}}
+YOUR RESPONSIBILITies
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spindle
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Housing blank  
+Shaft blank
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Housing  
+Preload mechanisms  
+End cap  
+Shaft  
+Bearings
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Structure
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Headstock blank  
+Tail stock blank  
+Structure tube blank
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rails  
+Finished tube  
+Finished tail stock  
+Finished head stock
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lead screw drive
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bearings  
+Preload end cap  
+Lead screw  
+Preload washers  
+Preload tube  
+Lead screw bearing seat  
+Bearing preload nut
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Drive nut  
+Drive preload nut
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Carriage
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Polymer bed blank\*  
+Handles  
+End skirt blanks\*
+
+\*May cast 3 pieces as one, stay tuned…
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Finished polymer bed\*  
+Drive flexure coupling  
+Bushings  
+Finished end skirts\*  
+Bushing flexure coupling
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cross feed
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tool holder  
+Lead screw
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Flexure bearing  
+Front flexure mount  
+Proper dial mount surfaces/flats on screw  
+Rear flexure mount  
+Thrust bearing
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Miscellaneous
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chuck  
+Metrology fixtures (3-ball & runout)  
+HSS cutting tool  
+Fasteners
+
+> ¼ - 20 bolts – 0.50 in long
+> 
+> ¼ - 20 bolts – 0.75 in long
+> 
+> ¼ - 20 bolts – 1.00 in long
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Deliverable Schedule
 --------------------
@@ -32,37 +197,348 @@ Deliverable Schedule
 
 All parts, models, measurements, document drafts/components, and presentation drafts/components must be started/finished no later than the following respective dates. You are responsible for (a) arranging all required meetings, (b) scheduling required resources, (c) placing timely orders for parts/materials, and (d) fabricating/calibrating the experimental setup. **Don't get frustrated if you get stuck. Ask for help so we can keep you moving**. We reserve the right to (and we will!) ask you for proof of start/finishing at random intervals. If you are not on schedule, this will be reflected in your grade, no exceptions.
 
-| ITEMS | START | FINISH |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Fabrication task dates**{{< /td-colspan >}} |||
-| Spindle shaft | Ses #3 | 1 day before Ses #6 |
-| Housing | Ses #6 | 1 day after Ses #9 |
-| Housing end caps | Ses #6 | 1 day after Ses #9 |
-| Cross-feed flexure | Ses #8 | Ses #14 |
-| Lead screw flexure | Ses #8 | Ses #14 |
-| {{< td-colspan 3 >}}**Error model task dates**{{< /td-colspan >}} |||
-| List of spindle error sources | Ses #3 | Ses #7 |
-| Model individual spindle errors | Ses #3 | Ses #10 |
-| Finish full spindle error model | Ses #3 | Ses #11 |
-| List of flexure error sources | Ses #8 | 1 day after Ses #13 |
-| Model individual flexure errors | Ses #8 | 1 day after Ses #13 |
-| Finish full flexure error model | Ses #8 | 1 day before Ses #16 |
-| List of drive error sources | Ses #11 | 1 day before Ses #16 |
-| Model individual drive error | Ses #11 | 2 day before Ses #20 |
-| Finish full drive error model | Ses #11 | 2 day before Ses #20 |
-| HTM-based lathe error model (in report) | Ses #5 | Ses #24 |
-| {{< td-colspan 3 >}}**Measurement task dates**{{< /td-colspan >}} |||
-| CMM training | 1 day after Ses #9 | 1 day after Ses #13 |
-| Spindle error motions | 1 day after Ses #9 | 1 day before Ses #12 |
-| Cross slide error motions | Ses #13 | 1 day before Ses #16 |
-| Carriage error motions | Ses #16 | 1 day before Ses #21 |
-| {{< td-colspan 3 >}}**Report results and conclusions**{{< /td-colspan >}} |||
-| Outline (text, table & figure placeholders) | Ses #14 | 3 days before Ses #20 |
-| Images | 1 day after Ses #3 | 1 day after Ses #21 |
-| Tables | Ses #6 | 1 day after Ses #21 |
-| 1st draft in separate modules | Ses #16 | 1 day after Ses #21 |
-| Integrated, final draft | Ses #22 | Ses #24 |
-| Design notebooks | 1 day after Ses #1 | Ses #24 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ITEMS
+{{< thclose >}}
+{{< thopen >}}
+START
+{{< thclose >}}
+{{< thopen >}}
+FINISH
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Fabrication task dates**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spindle shaft
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+1 day before Ses #6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Housing
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #6
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Housing end caps
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #6
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cross-feed flexure
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #8
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lead screw flexure
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #8
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Error model task dates**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+List of spindle error sources
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Model individual spindle errors
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Finish full spindle error model
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+List of flexure error sources
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #8
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Model individual flexure errors
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #8
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Finish full flexure error model
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #8
+{{< tdclose >}}
+{{< tdopen >}}
+1 day before Ses #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+List of drive error sources
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #11
+{{< tdclose >}}
+{{< tdopen >}}
+1 day before Ses #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Model individual drive error
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #11
+{{< tdclose >}}
+{{< tdopen >}}
+2 day before Ses #20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Finish full drive error model
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #11
+{{< tdclose >}}
+{{< tdopen >}}
+2 day before Ses #20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HTM-based lathe error model (in report)
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #5
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Measurement task dates**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CMM training
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #9
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spindle error motions
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #9
+{{< tdclose >}}
+{{< tdopen >}}
+1 day before Ses #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cross slide error motions
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #13
+{{< tdclose >}}
+{{< tdopen >}}
+1 day before Ses #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Carriage error motions
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #16
+{{< tdclose >}}
+{{< tdopen >}}
+1 day before Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Report results and conclusions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Outline (text, table & figure placeholders)
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #14
+{{< tdclose >}}
+{{< tdopen >}}
+3 days before Ses #20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Images
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tables
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #6
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1st draft in separate modules
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #16
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Integrated, final draft
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #22
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design notebooks
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after Ses #1
+{{< tdclose >}}
+{{< tdopen >}}
+Ses #24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Group Budgets
 -------------

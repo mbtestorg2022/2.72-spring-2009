@@ -9,25 +9,123 @@ Take-apart labs (M-Labs)
 
 You will work in groups to disassemble mechanical devices/assemblies, take measurements, answer questions, and reassemble the device/assembly to its original state. Tools will be provided, but you must bring your own safety glasses or you will be barred entry and have to make the lab up with a penalty. You must follow shop safety rules - long hair must be tied back, no open toed shoes, etc.
 
-| TOPICS | WEEK |
-| --- | --- |
-| Lathe disassembly | 2 |
-| HTMs and matrices | 3 |
-| Bearing alignment | 5 |
-| Transmission | 8 |
-| IC engine | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lathe disassembly
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HTMs and matrices
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bearing alignment
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IC engine
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Design labs (D-Labs)
 --------------------
 
 We will have 15 minute presentations followed by a 30 minute discussion/design review during every meeting. A projector will be available. Everyone must present their part of the project (even if there is no progress) and everyone must participate in the questions/discussion. Participation factors into the group grade that you will receive at the end of the term. Your team should (a) first tell us the purpose of the meeting, (b) then immediately show your Gantt chart and tell us if you are on/behind schedule, followed by other items as you feel appropriate such as (c) details of the work to date, (d) calculations, (e) risks, questions or items for discussion, (f) etc. Remember to have back up slides in the event that the questions/discussions delve deeper into the details.
 
-| TOPICS | WEEK |
-| --- | --- |
-| Shaft | 4 |
-| Spindle | 7 |
-| X-slide | 9 |
-| Assembly | 12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shaft
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spindle
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X-slide
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assembly
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Shop Hours
 ----------

@@ -63,11 +63,60 @@ The Shop Manager must sign off on the top of the sheet and after the part is mad
 
 Your group will need to schedule separate process plans for:
 
-| ITEMS | MEETING Times | DEADLINEs |
-| --- | --- | --- |
-| Spindle shaft, housing and end caps | 30 minute maximum | End of Week #2 |
-| CMM training (schedule with TA) | 1 hour maximum | End of Week #7 |
-| Flexures (Cross-slide & lead screw) | 1 hour maximum | Beginning of Week #8 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ITEMS
+{{< thclose >}}
+{{< thopen >}}
+MEETING Times
+{{< thclose >}}
+{{< thopen >}}
+DEADLINEs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spindle shaft, housing and end caps
+{{< tdclose >}}
+{{< tdopen >}}
+30 minute maximum
+{{< tdclose >}}
+{{< tdopen >}}
+End of Week #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CMM training (schedule with TA)
+{{< tdclose >}}
+{{< tdopen >}}
+1 hour maximum
+{{< tdclose >}}
+{{< tdopen >}}
+End of Week #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Flexures (Cross-slide & lead screw)
+{{< tdclose >}}
+{{< tdopen >}}
+1 hour maximum
+{{< tdclose >}}
+{{< tdopen >}}
+Beginning of Week #8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You need to move fast!!!! If your group does not make these dates/deadlines, this will be reflected in your grades.
 
